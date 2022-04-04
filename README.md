@@ -4,4 +4,4 @@ press x to exit,
 press c to copy all text (google mlkit, only English)
 
 
-![](1WAOQ3.gif)
+![](ezgif-3-778330fe37.gif)
